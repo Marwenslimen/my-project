@@ -1,0 +1,10 @@
+body{
+    background: url("https://pic.clubic.com/v1/images/1988559/raw.webp?fit=max&width=1200&hash=69b107c2d72d764fc66a5fbc09a8909cc5819c5e" );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+iframe{
+    margin-left:  25%;
+    margin-top: 15%;
+}
